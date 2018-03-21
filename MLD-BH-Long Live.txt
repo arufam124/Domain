@@ -1,4 +1,9 @@
 
+[Adblock Plus 2.0]
+! Title: Malwaredomain(LongLive)
+! Version: 10.0
+! list: Malware
+
 wittyvideos.com
 woo-gie.com
 dioasis.com
