@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: Malwaredomain(Adblock Plus)
 ! Version: 10.0
-! list: Domain Bad Isue Ads
+! list: Malware
 
 amazon.co.uk.security-check.ga
 autosegurancabrasil.com
