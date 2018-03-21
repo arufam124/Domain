@@ -1,8 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: Malwaredomain(Disconnect)
 ! Version: 10.0
-! list: Domain Bad Isue Ads
-
+! list: malware
 
 marco-behrendt.de
 jah.skateparkvr.com
